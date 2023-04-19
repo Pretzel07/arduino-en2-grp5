@@ -161,8 +161,11 @@ for (int i = 0; i<1; i){
       delay (eight);
     noTone(output);
       delay (100); 
-
-
+  //A4
+    tone(output, A4);
+      delay (eight);
+    noTone(output);
+      delay (100);
 
 
      }
