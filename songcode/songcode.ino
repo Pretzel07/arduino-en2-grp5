@@ -96,7 +96,71 @@ for (int i = 0; i<1; i){
       delay (quarter);
     noTone(output);
       delay (100);
-  
+  //B4
+    tone(output, B4);
+      delay (quarter);
+    noTone(output);
+      delay (100);
+  //G4
+    tone(output, G4);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //G4
+    tone(output, G4);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //G4
+    tone(output, G4);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //B4
+    tone(output, B4);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //C5
+    tone(output, C5);
+      delay (eight);
+    noTone(output);
+      delay (900);
+  //C5
+    tone(output, C5);
+      delay (quarter);
+    noTone(output);
+      delay (900);
+  //G4
+    tone(output, G4);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //C5
+    tone(output, C5);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //C5
+    tone(output, C5);
+      delay (quarter);
+    noTone(output);
+      delay (100);
+  //C5
+    tone(output, C5);
+      delay (dotquarter);
+    noTone(output);
+      delay (100);
+  //A4
+    tone(output, A4);
+      delay (eight);
+    noTone(output);
+      delay (100);
+  //C5
+    tone(output, C5);
+      delay (eight);
+    noTone(output);
+      delay (100); 
 
 
 
