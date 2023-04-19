@@ -1,5 +1,5 @@
 /*ITZEL TEST COMMENT*/
-/*its wednesday -oscar */
+/*NICK TEST COMMENT*/
 /*
 Notes chart:
   C     C#     D     Eb   E     F     F#    G     G#    A     Bb    B
@@ -97,7 +97,7 @@ for (int i = 0; i<1; i){
     noTone(output);
       delay (100);
   //B4
-    tone(output, B4);  //tone(outputPin,frequency)
+    tone(output, B4);
       delay (quarter);
     noTone(output);
       delay (100);
@@ -125,29 +125,29 @@ for (int i = 0; i<1; i){
     tone(output, C5);
       delay (eight);
     noTone(output);
-      delay (100);
- // C5
+      delay (900);
+  //C5
     tone(output, C5);
       delay (quarter);
     noTone(output);
       delay (900);
   //G4
-   tone(output, G4);
+    tone(output, G4);
       delay (eight);
     noTone(output);
       delay (100);
   //C5
-   tone(output, C5);
+    tone(output, C5);
       delay (eight);
     noTone(output);
       delay (100);
   //C5
-   tone(output, C5);
+    tone(output, C5);
       delay (quarter);
     noTone(output);
       delay (100);
   //C5
-  tone(output, C5);
+    tone(output, C5);
       delay (dotquarter);
     noTone(output);
       delay (100);
@@ -158,139 +158,9 @@ for (int i = 0; i<1; i){
       delay (100);
   //C5
     tone(output, C5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //A4
-    tone(output, A4);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //C5
-    tone(output, C5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //D5
-    tone(output, D5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //B4
-    tone(output, B4);
-      delay (quarter);
-    noTone(output);
-      delay (900);  
-  //G4
-    tone(output, G4);
-      delay (eight);
-    noTone(output);
-      delay (100);
-   //B4
-    tone(output, B4);
-      delay (eight);
-    noTone(output);
-      delay (100);  
-  //B4
-    tone(output, B4);
-      delay (quarter);
-    noTone(output);
-      delay (100);   
-  //B4
-    tone(output, B4);
-      delay (quarter);
-    noTone(output);
-      delay (100);   
-  //G4
-    tone(output, G4);
       delay (eight);
     noTone(output);
       delay (100); 
-  //G4
-    tone(output, G4);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //G4
-    tone(output, G4);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //B4
-    tone(output, B4);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //C5
-    tone(output, G4);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //C5
-    tone(output, C5);
-      delay (quarter);
-    noTone(output);
-      delay (900);
-  //G5
-    tone(output, G5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //E5
-    tone(output, E5);
-      delay (quarter);
-    noTone(output);
-      delay (100);    
-  //G5
-    tone(output, G5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //E5
-    tone(output, E5);
-      delay (halfnote);
-    noTone(output);
-      delay (333.5); 
-  //G5
-    tone(output, G5);
-      delay (dotquarter);
-    noTone(output);
-      delay (100);
-  //A5
-    tone(output, A5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //E5
-    tone(output, E5);
-      delay (eight);
-    noTone(output);
-      delay (100);
-  //E5
-    tone(output, E5);
-      delay (dothalf);
-    noTone(output);
-      delay (100);
-  //G5
-    tone(output, G5);
-      delay (quarter);
-    noTone(output);
-      delay (100);
-  //D5
-    tone(output, D5);
-      delay (quarter);
-    noTone(output);
-      delay (100);
-  //E5
-    tone(output, G5);
-      delay (quarter);
-    noTone(output);
-      delay (100);
-  //D5
-    tone(output, G5);
-      delay (eight);
-    noTone(output);
-      delay (100);
 
 
 
