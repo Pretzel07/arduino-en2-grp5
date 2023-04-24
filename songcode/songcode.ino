@@ -216,8 +216,82 @@ for (int i = 0; i<1; i){
  delay(eight);
  noTone(output);
  delay(100);
-   
-
+ //B4
+ tone(output,B4);  
+  delay(eight);
+ noTone(output);
+  delay (100);
+ //C5
+ tone(output,G5)
+  delay(eight);
+ noTone(output);
+  delay(100);
+ //C5
+ tone(output,C5);
+  delay(quarter);
+ noTone(output);
+  delay(900);
+ //G5
+ tone(output,G5);
+  delay(eight);
+ noTone(output);
+  delay(100);
+ //E5
+ tone(output,E5);
+  delay(quarter);
+ noTone(output);
+  delay(100);
+ //G5
+ tone(output,G5);
+  delay(eight);
+ noTone(output);
+  delay(100);
+ //E5
+ tone(output,E5);
+  delay(halfnote);
+ noTone(output);
+  delay(333.5);
+ //G5
+ tone(output,G5);
+  delay(dotquarter);
+ noTone(output);
+  delay(100);
+ //A5
+ tone(output,A5);
+  delay(eight);
+ noTone(output);
+  delay(100);
+ //E5
+ tone(output,E5);
+  delay(eight);
+ noTone(output);
+  delay(100);
+ //E5
+ tone(output,E5);
+  delay(dothalf);
+ noTone(output);
+  delay(100);
+ //G5
+ tone(output,G5);
+  delay(quarter);
+ noTone(output);
+  delay(100);
+ //D5
+ tone(output,D5);
+  delay(quarter);
+ noTone(output);
+  delay(100);
+ //E5
+ tone(output,G5);
+  delay(quarter);
+ noTone(output);
+  delay(100);
+ //D5
+ tone(output,G5);
+  delay(eight);
+ noTone(output);
+  delay(100);
+  
      }
   
 
