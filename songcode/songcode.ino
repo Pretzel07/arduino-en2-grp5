@@ -202,7 +202,7 @@ for (int i = 0; i<1; i){
  noTone(output);
  delay(100);
  //G4
- tone(output);
+ tone(output, G4);
  delay(eight);
  noTone(output);
  delay(100);
@@ -291,7 +291,7 @@ for (int i = 0; i<1; i){
   delay(eight);
  noTone(output);
   delay(100);
-  
+
      }
   
 
